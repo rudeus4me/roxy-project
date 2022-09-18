@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: rudeus
+    password: Song980906!
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://101.43.223.134:3306/file_management
